@@ -9,7 +9,7 @@ Code: [Smart Retail Store](https://github.com/hanxi27/Smart-Retail-VLC-Firmware/
 
 The program is divided into several sections, each responsible for a particular function, including the Bluetooth server, user interface, and position estimation.
 
-External Dependencies/Libraries:
+External Dependencies/Libraries (Download in Arduino IDE):
 - ThingPulse OLED SSD1306
 - Firebase-ESP32
 - arduinoFFT
